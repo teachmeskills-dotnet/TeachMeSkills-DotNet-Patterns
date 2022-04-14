@@ -1,10 +1,10 @@
-﻿namespace TeachMeSkills.DotNet.Patterns.Creational.Factory
+﻿namespace TeachMeSkills.DotNet.Patterns.Creational.AbstractFactory
 {
     /// <summary>
-    /// Product.
+    /// Product interface.
     /// </summary>
     /// <typeparam name="T">Generic result type from method.</typeparam>
-    public interface IProduct<T>
+    public interface IAbstractFactoryProduct<T>
     {
         /// <summary>
         /// Operation.

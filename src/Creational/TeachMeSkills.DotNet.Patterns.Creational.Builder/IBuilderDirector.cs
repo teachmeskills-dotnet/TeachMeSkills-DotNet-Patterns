@@ -6,7 +6,7 @@
     /// Director interface.
     /// </summary>
     /// <typeparam name="T">Builder generic type.</typeparam>
-    public interface IDirector<T>
+    public interface IBuilderDirector<T>
     {
         /// <summary>
         /// Builder.

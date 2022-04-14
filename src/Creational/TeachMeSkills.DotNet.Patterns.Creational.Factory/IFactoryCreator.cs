@@ -4,7 +4,7 @@
     /// Creator.
     /// </summary>
     /// <typeparam name="T">Generic result type from method.</typeparam>
-    public interface ICreator<T>
+    public interface IFactoryCreator<T>
     {
         /// <summary>
         /// Create.

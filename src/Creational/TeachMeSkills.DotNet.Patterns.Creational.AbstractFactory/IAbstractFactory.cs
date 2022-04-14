@@ -6,8 +6,8 @@
     /// <typeparam name="T">Generic result type from first method.</typeparam>
     /// <typeparam name="V">Generic result type from second method.</typeparam>
     public interface IAbstractFactory<T, V>
-        where T : IProduct<T>
-        where V : IProduct<V>
+        where T : IAbstractFactoryProduct<T>
+        where V : IAbstractFactoryProduct<V>
     {
         /// <summary>
         /// Create first product.
