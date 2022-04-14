@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Patter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Patterns.Structural.Facade", "src\Structural\TeachMeSkills.DotNet.Patterns.Structural.Facade\TeachMeSkills.DotNet.Patterns.Structural.Facade.csproj", "{4E959EB6-FD97-462D-9573-07B3DB2B84B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Patterns.Structural.Flyweight", "src\Structural\TeachMeSkills.DotNet.Patterns.Structural.Flyweight\TeachMeSkills.DotNet.Patterns.Structural.Flyweight.csproj", "{A55311FD-6930-40BF-9E28-F5E1B149DF9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{4E959EB6-FD97-462D-9573-07B3DB2B84B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E959EB6-FD97-462D-9573-07B3DB2B84B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E959EB6-FD97-462D-9573-07B3DB2B84B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55311FD-6930-40BF-9E28-F5E1B149DF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55311FD-6930-40BF-9E28-F5E1B149DF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55311FD-6930-40BF-9E28-F5E1B149DF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55311FD-6930-40BF-9E28-F5E1B149DF9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +94,7 @@ Global
 		{95D27645-C41D-4E9B-9362-F036C52C80DA} = {4374ED40-10B8-42C9-9A4E-0DF637FF66AC}
 		{B0F7BFE3-6D39-46F5-8C29-DD7DC415ED56} = {4374ED40-10B8-42C9-9A4E-0DF637FF66AC}
 		{4E959EB6-FD97-462D-9573-07B3DB2B84B9} = {4374ED40-10B8-42C9-9A4E-0DF637FF66AC}
+		{A55311FD-6930-40BF-9E28-F5E1B149DF9E} = {4374ED40-10B8-42C9-9A4E-0DF637FF66AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9F4784C2-4E07-4C2C-AD61-C6E61BCE45F7}
