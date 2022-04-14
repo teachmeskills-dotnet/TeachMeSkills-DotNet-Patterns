@@ -7,7 +7,7 @@
     public interface ICreator<T>
     {
         /// <summary>
-        /// Operation.
+        /// Create.
         /// </summary>
         public T Create();
     }
