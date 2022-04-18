@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Patterns.Behavioral.ChainOfResponsibility", "src\Behavioral\TeachMeSkills.DotNet.Patterns.Behavioral.ChainOfResponsibility\TeachMeSkills.DotNet.Patterns.Behavioral.ChainOfResponsibility.csproj", "{92789B71-62FC-470B-B1B7-C4746FA6C01B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Patterns.Behavioral.Command", "src\Behavioral\TeachMeSkills.DotNet.Patterns.Behavioral.Command\TeachMeSkills.DotNet.Patterns.Behavioral.Command.csproj", "{8C110C22-8DAE-4B12-BC49-C0D8CE38C389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{92789B71-62FC-470B-B1B7-C4746FA6C01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92789B71-62FC-470B-B1B7-C4746FA6C01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92789B71-62FC-470B-B1B7-C4746FA6C01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C110C22-8DAE-4B12-BC49-C0D8CE38C389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C110C22-8DAE-4B12-BC49-C0D8CE38C389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C110C22-8DAE-4B12-BC49-C0D8CE38C389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C110C22-8DAE-4B12-BC49-C0D8CE38C389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{A55311FD-6930-40BF-9E28-F5E1B149DF9E} = {4374ED40-10B8-42C9-9A4E-0DF637FF66AC}
 		{3B435F51-5D8D-488F-AEA7-4B60A2494E00} = {4374ED40-10B8-42C9-9A4E-0DF637FF66AC}
 		{92789B71-62FC-470B-B1B7-C4746FA6C01B} = {525D2BC5-BDB0-4C61-A48E-9E00D507EA4A}
+		{8C110C22-8DAE-4B12-BC49-C0D8CE38C389} = {525D2BC5-BDB0-4C61-A48E-9E00D507EA4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9F4784C2-4E07-4C2C-AD61-C6E61BCE45F7}
